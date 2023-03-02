@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.todo_cont {
+  border: 2px solid teal;
+  gap: 20px;
+  border-radius: 12px;
+  padding: 12px 24px 24px;
+  width: 100px;
+  float: left;
+}
+
+.todo_list {
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 200px;
+}
